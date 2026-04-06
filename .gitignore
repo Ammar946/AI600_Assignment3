@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.DS_Store
+.idea/
+.vscode/
+
+# Data and Artifacts
+artifacts/
+data/
+datasets/
+*.pt
+*.pth
+*.ckpt
+
+# Virtual environments
+venv/
+env/
+.env/
